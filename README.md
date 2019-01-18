@@ -13,6 +13,9 @@ In this project, we use the theories and hands-on taught during the semester on 
 ###  Codes
 The different jupyter notebooks available are the codes associated to the results presented in the project report.
 
+The notebook 'LongitudinalStudies_and_lesionImpactOnConnectome.ipynb' is associated to the 2nd and 3rd parts of the results 'Impact of the lesion on the connectome' and 'Longitudinal changes'.
+The notebook 'StatisticalAnalysis.ipynb' is associated to the 1st part of the results 'Correlation between dysconnectome and clinical scores'.
+
 
 ###  Team
 Our group is composed of 4 PhD students in Neurosciences:
