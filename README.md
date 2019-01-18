@@ -13,10 +13,5 @@ In this project, we use the theories and hands-on taught during the semester on 
 
 
 ###  Team
-Claudia Bigoni
-
-Giorgia Evangelista
-
-Emeline Mullier 
-
-Joan Rue
+Our group is composed of 4 PhD students in Neurosciences:
+Claudia Bigoni, Giorgia Evangelista, Emeline Mullier, Joan Rue
