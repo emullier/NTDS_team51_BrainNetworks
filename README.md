@@ -1,5 +1,5 @@
 # NTDS_team51_BrainNetworks
-
+## An exploratory study on the brain dysconnectome
 
 
 This repository contains the code developed for the project 'BrainNetworks' of team 51 in the context of the 'A Network Tour of Data Science' NTDS2018 organized in EPFL.
