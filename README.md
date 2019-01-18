@@ -10,6 +10,8 @@ http://edu.epfl.ch/coursebook/en/a-network-tour-of-data-science-EE-558 (descript
 
 In this project, we use the theories and hands-on taught during the semester on a brain network dataset computed from MRI acquisitions. More specifically, we compare brain networks properties of a population of stroke patients between the acute and the chronic phases.
 
+###  Codes
+The different jupyter notebooks available are the codes associated to the results presented in the project report.
 
 
 ###  Team
